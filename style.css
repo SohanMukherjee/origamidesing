@@ -1,0 +1,19 @@
+h2{
+    color:rgb(147, 255, 232)
+}
+ 
+/*h4{
+    colour:rgb(173, 86, 15)
+}*/
+
+
+
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+
+*
+{ background-color : #a39dff; }
+
